@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6",
+        // Não gera a pasta JS
+        "noEmitOnError": true 
+    },
+    "include": ["app/**/*"]
+}
